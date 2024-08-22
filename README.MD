@@ -25,7 +25,3 @@ or extend it, please read 'Conventions'.
 * The package pablic APIs must be a thread safe.
 * Sure there are an exceptions from that rules, but they have to be clearly motivated somehow.
 
-# Maintainers:  
-
-- Dmytro Iakovliev <d.iakovliev@dtpoland.com>
-- CS23 team <cs23@dtpoland.com>
